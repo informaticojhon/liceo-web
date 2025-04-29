@@ -12,17 +12,17 @@ export default function Cursos() {
       { nombre: "Kinder", profesor: "Prof. Myriam Martinez" }
     ]},
     { nivel: "Educación Básica", lista: [
-      { nombre: "Primero Básico", profesor: "Prof. Yessyka Mardones" },
+      { nombre: "Primero Básico", profesor: "Prof. Paulina Antipa Igor" },
       { nombre: "Segundo Básico", profesor: "Prof. Virginia Zuñiga" },
       { nombre: "Tercero Básico", profesor: "Prof. Katherine Martínez" },
       { nombre: "Cuarto Básico", profesor: "Prof. Jocelyn Argandoña" },
       { nombre: "Quinto Básico", profesor: "Prof. Daniela Sanchez" },
-      { nombre: "Sexto Básico", profesor: "Prof. --" },
+      { nombre: "Sexto Básico", profesor: "Prof. Pablo Soto Osorio" },
       { nombre: "Séptimo Básico", profesor: "Prof. Anita Bello" },
       { nombre: "Octavo Básico", profesor: "Prof. Kurt Mella" }
     ]},
     { nivel: "Educación Media", lista: [
-      { nombre: "Primero Medio", profesor: "Prof. --" },
+      { nombre: "Primero Medio", profesor: "Prof. Katerine Márquez" },
       { nombre: "Segundo Medio", profesor: "Prof. Katerin Lagos" },
       { nombre: "Tercero Medio", profesor: "Prof. Alisson Molina" },
       { nombre: "Cuarto Medio", profesor: "Prof. Juan Vera" }
