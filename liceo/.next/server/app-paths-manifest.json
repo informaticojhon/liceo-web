@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/convivencia/encargado/page": "app/convivencia/encargado/page.js",
+  "/estudiantes/centro-alumnos/page": "app/estudiantes/centro-alumnos/page.js",
+  "/convivencia/reglamento/page": "app/convivencia/reglamento/page.js",
+  "/estudiantes/cursos/page": "app/estudiantes/cursos/page.js",
+  "/liceo/docentes/page": "app/liceo/docentes/page.js",
+  "/estudiantes/pace/page": "app/estudiantes/pace/page.js",
+  "/estudiantes/reglamento/page": "app/estudiantes/reglamento/page.js",
+  "/liceo/historia/page": "app/liceo/historia/page.js",
+  "/liceo/mision/page": "app/liceo/mision/page.js",
+  "/liceo/organigrama/page": "app/liceo/organigrama/page.js",
+  "/liceo/reglamento/page": "app/liceo/reglamento/page.js",
+  "/page": "app/page.js"
+}

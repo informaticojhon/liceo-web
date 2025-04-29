@@ -1,0 +1,109 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/_not-found/page-c0cbad154ef2aa63.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/css/2a1bad588c074449.css",
+      "static/chunks/66ec4792-dbe06609ced84581.js",
+      "static/chunks/582-b7d6431a47d7fec8.js",
+      "static/chunks/609-98829a3e83d005ca.js",
+      "static/chunks/app/layout-5aa830ce722c8d92.js"
+    ],
+    "/convivencia/encargado/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/convivencia/encargado/page-2b9308e3b994717c.js"
+    ],
+    "/estudiantes/centro-alumnos/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/estudiantes/centro-alumnos/page-379347706625ecb8.js"
+    ],
+    "/convivencia/reglamento/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/convivencia/reglamento/page-e1089e7812adc47e.js"
+    ],
+    "/estudiantes/cursos/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/estudiantes/cursos/page-bb8857ab70161055.js"
+    ],
+    "/liceo/docentes/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/liceo/docentes/page-a463b57a1a0420be.js"
+    ],
+    "/estudiantes/pace/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/estudiantes/pace/page-5ef218d120ae5c80.js"
+    ],
+    "/estudiantes/reglamento/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/estudiantes/reglamento/page-67ba19129e053e68.js"
+    ],
+    "/liceo/historia/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/liceo/historia/page-fb71a6497469c083.js"
+    ],
+    "/liceo/mision/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/liceo/mision/page-f1d13556c33fee45.js"
+    ],
+    "/liceo/organigrama/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/liceo/organigrama/page-c52ae246147692ee.js"
+    ],
+    "/liceo/reglamento/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/chunks/app/liceo/reglamento/page-d567d016a809724d.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-510ef6bd810dbcce.js",
+      "static/chunks/4bd1b696-927b5d87d2664d33.js",
+      "static/chunks/517-8567fe277c638d96.js",
+      "static/chunks/main-app-78dbe2029c2fb829.js",
+      "static/css/f905e3f5554554b8.css",
+      "static/chunks/582-b7d6431a47d7fec8.js",
+      "static/chunks/419-4910053c94095296.js",
+      "static/chunks/app/page-cb58b145ffd343a4.js"
+    ]
+  }
+}
