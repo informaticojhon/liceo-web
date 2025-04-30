@@ -23,8 +23,7 @@ const linksDeInteres = [
   { nombre: "DEMRE", url: "https://demre.cl", logo: "/images/logos/demre.png" },
   { nombre: "JUNAEB", url: "https://www.junaeb.cl", logo: "/images/logos/junaeb.png" },
   { nombre: "CPEIP", url: "https://www.cpeip.cl", logo: "/images/logos/cpeip.png" },
-  { nombre: "Currículum Nacional", url: "https://www.curriculumnacional.cl", logo: "/images/logos/curriculumnacional.jpg" },
-  { nombre: "Lirmi", url: "https://www.lirmi.com", logo: "/images/logos/logo-lirmi.webp" }
+  { nombre: "Currículum Nacional", url: "https://www.curriculumnacional.cl", logo: "/images/logos/curriculumnacional.jpg" }
 ];
 
 export default function Home() {
