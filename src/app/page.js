@@ -100,13 +100,19 @@ export default function Home() {
       </motion.div>
 
     {/* Contador de visitas */}
-<div className="mt-12 text-center text-sm text-gray-600">
-  <p className="mb-2">Contador de visitas</p>
-  <img
-   src="https://hits.donaldzou.dev/badge.svg?url=https://www.liceomelinka.cl&count_bg=%2379C83D&title=Visitas"
-  alt="Contador de visitas"
-    className="mx-auto"
-  />
+    <div className="flex justify-center mt-10">
+  <a 
+    href="https://www.freecounterstat.com" 
+    title="Contador de visitas" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    <img 
+      src="https://counter4.optistats.ovh/private/freecounterstat.php?c=9cx4jqtcg3ac9cmss1zc4k9mkeefe19f" 
+      alt="Contador de visitas"
+      className="w-auto h-8"
+    />
+  </a>
 </div>
     </div>
   );
