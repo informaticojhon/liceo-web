@@ -99,15 +99,15 @@ export default function Home() {
         </div>
       </motion.div>
 
-      {/* Contador de visitas */}
-      <div className="mt-12 text-center text-sm text-gray-600">
-        <p className="mb-2">Contador de visitas</p>
-        <img
-          src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.liceomelinka.cl&count_bg=%2379C83D&title_bg=%23555555&icon=google.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"
-          alt="Contador de visitas"
-          className="mx-auto"
-        />
-      </div>
+    {/* Contador de visitas */}
+<div className="mt-12 text-center text-sm text-gray-600">
+  <p className="mb-2">Contador de visitas</p>
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://www.liceomelinka.cl&count_bg=%2379C83D&title_bg=%23555555&icon=google.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"
+    alt="Contador de visitas"
+    className="mx-auto"
+  />
+</div>
     </div>
   );
 }
