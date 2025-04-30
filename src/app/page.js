@@ -1,4 +1,4 @@
-"use client"; // Necesario para que funcione en Next.js 13+
+"use client";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
@@ -17,7 +17,6 @@ const images = [
   "/images/slide6.jpg",
 ];
 
-// Lista de Links de Interés con Logos y animaciones
 const linksDeInteres = [
   { nombre: "Mineduc", url: "https://www.mineduc.cl", logo: "/images/logos/mineduc.jpg" },
   { nombre: "DEMRE", url: "https://demre.cl", logo: "/images/logos/demre.png" },
@@ -29,7 +28,7 @@ const linksDeInteres = [
 export default function Home() {
   return (
     <div className="container mx-auto p-10">
-      {/* Título con animación */}
+      {/* Título */}
       <motion.h1
         className="text-4xl font-bold text-blue-600 text-center"
         initial={{ opacity: 0, y: -50 }}
@@ -39,7 +38,7 @@ export default function Home() {
         Bienvenidos al Liceo Melinka
       </motion.h1>
 
-      {/* Slider con animación de entrada */}
+      {/* Carrusel */}
       <motion.div 
         className="mt-8"
         initial={{ opacity: 0 }}
@@ -67,7 +66,7 @@ export default function Home() {
         </Swiper>
       </motion.div>
 
-      {/* Links de Interés con Animaciones */}
+      {/* Links de Interés */}
       <motion.div 
         className="mt-12 py-10 bg-white border border-gray-300 rounded-lg shadow-md"
         initial={{ opacity: 0, y: 50 }}
@@ -91,7 +90,7 @@ export default function Home() {
               <Image 
                 src={link.logo}
                 alt={link.nombre}
-                width={130} // Ajustado para mejor visibilidad
+                width={130}
                 height={130}
                 className="mb-2"
               />
@@ -99,11 +98,16 @@ export default function Home() {
           ))}
         </div>
       </motion.div>
-      <img
-  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.liceomelinka.cl&count_bg=%2379C83D&title_bg=%23555555&icon=google.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"
-  alt="Contador de visitas"
-/>
 
+      {/* Contador de visitas */}
+      <div className="mt-12 text-center text-sm text-gray-600">
+        <p className="mb-2">Contador de visitas</p>
+        <img
+          src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.liceomelinka.cl&count_bg=%2379C83D&title_bg=%23555555&icon=google.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"
+          alt="Contador de visitas"
+          className="mx-auto"
+        />
+      </div>
     </div>
   );
 }
